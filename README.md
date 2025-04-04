@@ -1,1 +1,1 @@
-# This project is not for reuse without explicit permission.
+# Calculator To Calculate Stuff xD
